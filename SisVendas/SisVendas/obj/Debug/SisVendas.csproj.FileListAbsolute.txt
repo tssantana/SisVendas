@@ -1,0 +1,15 @@
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\bin\Debug\SisVendas.exe.config
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\bin\Debug\SisVendas.exe
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\bin\Debug\SisVendas.pdb
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.csprojResolveAssemblyReference.cache
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.Properties.Resources.resources
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.GenerateResource.Cache
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.exe
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.pdb
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.Home.resources
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.FrmCliente.resources
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.FrmMercadoria.resources
+c:\users\thiago\documents\visual studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.FrmPedido.resources
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.frmListaCliente.resources
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.frmListaMercadoria.resources
+C:\Users\Thiago\Documents\Visual Studio 2015\Projects\SisVendas\SisVendas\obj\Debug\SisVendas.frmListaPedido.resources
